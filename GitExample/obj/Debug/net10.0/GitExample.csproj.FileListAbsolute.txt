@@ -1,0 +1,15 @@
+C:\Dev\MI5\Giggey\GitExample\GitExample\bin\Debug\net10.0\GitExample.exe
+C:\Dev\MI5\Giggey\GitExample\GitExample\bin\Debug\net10.0\GitExample.deps.json
+C:\Dev\MI5\Giggey\GitExample\GitExample\bin\Debug\net10.0\GitExample.runtimeconfig.json
+C:\Dev\MI5\Giggey\GitExample\GitExample\bin\Debug\net10.0\GitExample.dll
+C:\Dev\MI5\Giggey\GitExample\GitExample\bin\Debug\net10.0\GitExample.pdb
+C:\Dev\MI5\Giggey\GitExample\GitExample\obj\Debug\net10.0\GitExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\MI5\Giggey\GitExample\GitExample\obj\Debug\net10.0\GitExample.AssemblyInfoInputs.cache
+C:\Dev\MI5\Giggey\GitExample\GitExample\obj\Debug\net10.0\GitExample.AssemblyInfo.cs
+C:\Dev\MI5\Giggey\GitExample\GitExample\obj\Debug\net10.0\GitExample.csproj.CoreCompileInputs.cache
+C:\Dev\MI5\Giggey\GitExample\GitExample\obj\Debug\net10.0\GitExample.sourcelink.json
+C:\Dev\MI5\Giggey\GitExample\GitExample\obj\Debug\net10.0\GitExample.dll
+C:\Dev\MI5\Giggey\GitExample\GitExample\obj\Debug\net10.0\refint\GitExample.dll
+C:\Dev\MI5\Giggey\GitExample\GitExample\obj\Debug\net10.0\GitExample.pdb
+C:\Dev\MI5\Giggey\GitExample\GitExample\obj\Debug\net10.0\GitExample.genruntimeconfig.cache
+C:\Dev\MI5\Giggey\GitExample\GitExample\obj\Debug\net10.0\ref\GitExample.dll
