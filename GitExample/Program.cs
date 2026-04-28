@@ -3,8 +3,3 @@
 
 // Goodbyte
 Console.WriteLine("Hello, World!!");
-Console.WriteLine("Heloo from line 2");
-Console.WriteLine("Heloo from line 3");
-Console.WriteLine("Heloo from line 4");
-Console.WriteLine("Heloo from line 5");
-Console.WriteLine("Heloo from line 6");
