@@ -1,0 +1,36 @@
+g# Build output
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE and editor folders
+.vs/
+.idea/
+*.DotSettings.user
+
+# Rider/ReSharper caches
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local tooling and diagnostics
+BenchmarkDotNet.Artifacts/
+TestResults/
+
